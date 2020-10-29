@@ -11,6 +11,7 @@ dns.cleanbrowsing.org
 doh.securedns.eu
 one.one.one.one
 dns.cloudflare.com
+cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
