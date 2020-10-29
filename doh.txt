@@ -1,0 +1,12 @@
+doh.opendns.com
+doh.familyshield.opendns.com
+dns.google
+dns.quad9.net
+dns9.quad9.net
+dns10.quad9.net
+dns11.quad9.net
+dns.cloudflare.com
+doh.dns.sb
+dns.nextdns.io
+dns.cleanbrowsing.org
+doh.securedns.eu
