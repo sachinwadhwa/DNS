@@ -143,7 +143,6 @@ dns2.nextdns.io
 doh.qis.io
 doh.seby.io
 doh-2.seby.io
-doh.seby.io:8443
 dns.flatuslifir.is
 public.dns.iij.jp
 dns.developer.li
