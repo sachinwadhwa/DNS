@@ -58,3 +58,4 @@ doh.eastas.pi-dns.com
 doh.pi-dns.com
 doh-2.seby.io
 doh.dnslify.com
+doh.xfinity.com
