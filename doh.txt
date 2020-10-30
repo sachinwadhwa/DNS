@@ -4,7 +4,6 @@ family.canadianshield.cira.ca
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 dns.digitale-gesellschaft.ch
-dns.digitale-gesellschaft.ch
 dns.switch.ch
 doh.360.cn
 dns.rubyfish.cn
