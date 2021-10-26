@@ -87,7 +87,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 dns.islandnet.com
 opencdn.jomodns.com
-debug.opendns.com
 doh.opendns.com
 sync.hydra.opendns.com
 doh.familyshield.opendns.com
